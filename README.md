@@ -58,10 +58,6 @@ Khởi chạy hệ thống, báo WARN như dưới đây là hoàn toàn bình t
     WARN: narwhal_primary::core: System shutting down
     at /root/.cargo/git/checkouts/sui-6ac459c53b1b685a/aa957af/narwhal/primary/src/core.rs:360
     in narwhal_primary::core::run_inner
-  2023-04-17T09:05:57.832511Z  WARN narwhal_primary::core: System shutting down
-    at /root/.cargo/git/checkouts/sui-6ac459c53b1b685a/aa957af/narwhal/primary/src/core.rs:360
-    in narwhal_primary::core::run_inner
-  2023-04-17T09:05:58.333550Z  WARN narwhal_primary::core: System shutting down
 
 Câu lệnh chạy node:
 
